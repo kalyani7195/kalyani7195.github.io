@@ -9,8 +9,34 @@ a {
 }
 
 a {
-  color: #1F51FF !important;
+  color: blueviolet !important;
 }
+
+a.btn {
+  color: white !important;
+}
+
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: blue !important;
+}
+
+.btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited {
+  background-color: crimson !important;
+}
+
+.btn-warning, .btn-warning:hover, .btn-warning:active, .btn-warning:visited {
+  background-color: gold !important;
+}
+
+.btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
+  background-color: rgb(0, 176, 126) !important;
+}
+
+
+
+
 
 
 strong {
@@ -32,6 +58,7 @@ papertitle {
 name {
   font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 32px;
+  font-variant: small-caps;
 }
 
 .one {
