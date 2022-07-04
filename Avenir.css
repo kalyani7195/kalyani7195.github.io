@@ -8,6 +8,12 @@ a {
   font-size: 14px
 }
 
+a:link {
+  color: blueviolet;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 strong {
   font-family: 'Avenir', Helvetica, sans-serif;
