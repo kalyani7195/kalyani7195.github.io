@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'AvenirNextLTPro-Regular';
+  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot');
+  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
+  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.woff') format('woff'),
+  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.ttf') format('truetype'),
+  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.svg#AvenirNextLTPro-Regular') format('svg');
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'AvenirNextLTPro-Regular';
+  font-size: 14px
+}
+
+
+strong {
+  font-family: 'AvenirNextLTPro-Regular';
+  font-size: 14px;
+}
+
+heading {
+  font-family: 'AvenirNextLTPro-Regular';
+  font-size: 22px;
+}
+
+papertitle {
+  font-family: 'AvenirNextLTPro-Regular';
+  font-size: 14px;
+  font-weight: 700
+}
+
+name {
+  font-family: 'AvenirNextLTPro-Regular';
+  font-size: 32px;
+}
+
+.one {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+.two {
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
