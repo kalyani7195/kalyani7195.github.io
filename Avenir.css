@@ -12,29 +12,29 @@ th,
 tr,
 p,
 a {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 14px
 }
 
 
 strong {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 22px;
 }
 
 papertitle {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700
 }
 
 name {
-  font-family: 'AvenirNextLTPro-Regular';
+  font-family: 'Avenir', Helvetica, sans-serif;
   font-size: 32px;
 }
 
