@@ -8,10 +8,8 @@ a {
   font-size: 14px
 }
 
-a:link {
+a {
   color: blueviolet;
-  background-color: transparent;
-  text-decoration: none;
 }
 
 
