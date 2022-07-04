@@ -1,10 +1,9 @@
 @font-face {
-  font-family: 'AvenirNextLTPro-Regular';
-  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot');
-  src: url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.woff') format('woff'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.ttf') format('truetype'),
-  url('http://anthillrealtors.co.id/wp-content/themes/x-child/Fonts/AvenirNextLTPro-Regular.svg#AvenirNextLTPro-Regular') format('svg');
+  font-family: 'Avenir';
+  src: url('../fonts/Avenir.eot?#iefix') format('embedded-opentype'),  
+  url('../fonts/Avenir.woff') format('woff'), 
+  url('../fonts/Avenir.ttf')  format('truetype'), 
+  url('../fonts/Avenir.svg#Avenir') format('svg');
 }
 
 body,
