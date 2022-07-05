@@ -9,7 +9,7 @@ a {
 }
 
 a {
-  color: blueviolet !important;
+  color: rgb(76, 67, 248) !important;
 }
 
 a.btn {
@@ -19,7 +19,7 @@ a.btn {
 
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-  background-color: blue !important;
+  background-color: blueviolet !important;
 }
 
 .btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited {
@@ -31,7 +31,7 @@ a.btn {
 }
 
 .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
-  background-color: rgb(0, 176, 126) !important;
+  background-color: rgb(2, 223, 127) !important;
 }
 
 
@@ -51,7 +51,7 @@ heading {
 
 papertitle {
   font-family: 'Avenir', Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700
 }
 
