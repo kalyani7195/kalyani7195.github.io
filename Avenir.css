@@ -5,7 +5,8 @@ tr,
 p,
 a {
   font-family: 'Avenir', Helvetica, sans-serif;
-  font-size: 14px
+  font-size: 14px;
+  font-weight: 450;
 }
 
 a {
@@ -38,11 +39,6 @@ a.btn {
   background-color: rgb(1, 103, 58)!important;
   border-color: rgb(1, 103, 58) !important;
 }
-
-
-
-
-
 
 strong {
   font-family: 'Avenir', Helvetica, sans-serif;
