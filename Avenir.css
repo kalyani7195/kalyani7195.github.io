@@ -9,7 +9,7 @@ a {
 }
 
 a {
-  color: rgb(76, 67, 248) !important;
+  color: rgb(96, 87, 255) !important;
 }
 
 a.btn {
@@ -20,18 +20,23 @@ a.btn {
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
   background-color: blueviolet !important;
+  border-color: blueviolet !important;
 }
 
 .btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited {
   background-color: crimson !important;
+  border-color: crimson !important;
 }
 
 .btn-warning, .btn-warning:hover, .btn-warning:active, .btn-warning:visited {
   background-color: gold !important;
+  border-color: gold !important;
+
 }
 
 .btn-success, .btn-success:hover, .btn-success:active, .btn-success:visited {
-  background-color: rgb(2, 223, 127) !important;
+  background-color: rgb(1, 103, 58)!important;
+  border-color: rgb(1, 103, 58) !important;
 }
 
 
@@ -51,8 +56,8 @@ heading {
 
 papertitle {
   font-family: 'Avenir', Helvetica, sans-serif;
-  font-size: 18px;
-  font-weight: 700
+  font-size: 14px;
+  font-weight: 600
 }
 
 name {
