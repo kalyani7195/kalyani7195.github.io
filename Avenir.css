@@ -4,7 +4,7 @@ th,
 tr,
 p,
 a {
-  font-family:  'Optima', sans-serif;  /*'Avenir', Helvetica, sans-serif;*/
+  font-family:  'Gill Sans', sans-serif;  /*'Avenir', Helvetica, sans-serif;*/
   font-size: 16px;
   font-weight: 400;
 }
@@ -41,23 +41,23 @@ a.btn {
 }
 
 strong {
-  font-family:   'Optima', sans-serif;    /*'Avenir', Helvetica, sans-serif;*/
+  font-family:   'Gill Sans', sans-serif;    /*'Avenir', Helvetica, sans-serif;*/
   font-size: 16px;
 }
 
 heading {
-  font-family: 'Optima', sans-serif;   /*'Avenir', Helvetica, sans-serif;*/
+  font-family: 'Gill Sans', sans-serif;    /*'Avenir', Helvetica, sans-serif;*/
   font-size: 24px;
 }
 
 papertitle {
-  font-family:  'Optima', sans-serif; /*'Avenir', Helvetica, sans-serif;*/
+  font-family: 'Gill Sans', sans-serif; /*'Avenir', Helvetica, sans-serif;*/
   font-size: 18px;
   font-weight: normal;
 }
 
 name {
-  font-family:  'Optima', sans-serif; /*'Avenir', Helvetica, sans-serif;*/
+  font-family:  'Gill Sans', sans-serif;  /*'Avenir', Helvetica, sans-serif;*/
   font-size: 34px;
   font-variant: small-caps;
 }
